@@ -1,0 +1,29 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "CTF - Linux",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What does the SUID bit allow in Linux?",
+      "correct_answer": "Execute a file with the owner's privileges",
+      "incorrect_answers": [
+        "Encrypt the file",
+        "Hide the file",
+        "Delete the file"
+      ]
+    },
+    {
+      "category": "CTF - Android",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Where are Android app permissions declared?",
+      "correct_answer": "AndroidManifest.xml",
+      "incorrect_answers": [
+        "build.gradle",
+        "MainActivity.java",
+        "res/layout"
+      ]
+    }
+  ]
+}
